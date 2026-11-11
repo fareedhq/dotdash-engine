@@ -1,0 +1,27 @@
+# Instruksi Agen AI
+AGENTS.md
+CLAUDE.md
+prompts/
+
+# Lingkungan Virtual Python
+.venv/
+venv/
+env/
+
+# Cache Python
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+
+# Konfigurasi Privat
+.env
+.env*.local
+!.env.example
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
